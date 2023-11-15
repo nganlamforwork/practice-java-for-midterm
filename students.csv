@@ -1,0 +1,21 @@
+id,name,gpa,image,address,notes
+1,Nguyen Van A,3.5,nguyen_van_a.jpg,123 Duong A,Sinh vien xuat sac
+2,Le Thi B,2.9,le_thi_b.jpg,456 Duong B,Sinh vien gioi
+3,Tran Dinh C,3.2,tran_dinh_c.jpg,789 Duong C,Sinh vien kha
+4,Pham Thi D,3.9,pham_thi_d.jpg,101 Duong D,Sinh vien uu tu
+5,Hoang Minh E,3.7,hoang_minh_e.jpg,202 Duong E,Sinh vien nang dong
+6,Vu Thi F,2.8,vu_thi_f.jpg,303 Duong F,Sinh vien tiem nang
+7,Ly Dinh G,3.1,ly_dinh_g.jpg,404 Duong G,Sinh vien nhiet huyet
+8,Ngo Van H,3.6,ngo_van_h.jpg,505 Duong H,Sinh vien xuat sac
+9,Do Thi I,2.7,do_thi_i.jpg,606 Duong I,Sinh vien gioi
+10,Nguyen Thanh J,3.0,nguyen_thanh_j.jpg,707 Duong J,Sinh vien cham chi
+11,Bui Van K,3.3,bui_van_k.jpg,808 Duong K,Sinh vien tan tuy
+12,Truong Minh L,3.8,truong_minh_l.jpg,909 Duong L,Sinh vien uu tu
+13,Phan Thi M,2.6,phan_thi_m.jpg,1010 Duong M,Sinh vien day nhiet huyet
+14,Vu Thanh N,3.4,vu_thanh_n.jpg,1111 Duong N,Sinh vien nang dong
+15,Dang Van O,2.5,dang_van_o.jpg,1212 Duong O,Sinh vien nhiet huyet
+16,Nguyen Van P,3.2,nguyen_van_p.jpg,1313 Duong P,Sinh vien tiem nang
+17,Le Thi Q,3.7,le_thi_q.jpg,1414 Duong Q,Sinh vien cham chi
+18,Tran Dinh R,3.5,tran_dinh_r.jpg,1515 Duong R,Sinh vien day nhiet huyet
+19,Pham Van S,2.9,pham_van_s.jpg,1616 Duong S,Sinh vien tan tuy
+20,Hoang Thi T,3.6,hoang_thi_t.jpg,1717 Duong T,Sinh vien xuat sac
